@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework.boot:spring-boot-starter-aop:2.1.10.BUILD-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../apache-maven-3.6.1/repository/org/springframework/boot/spring-boot-starter-aop/2.1.10.BUILD-SNAPSHOT/spring-boot-starter-aop-2.1.10.BUILD-20191014.142051-4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../apache-maven-3.6.1/repository/org/springframework/boot/spring-boot-starter-aop/2.1.10.BUILD-SNAPSHOT/spring-boot-starter-aop-2.1.10.BUILD-20191014.142051-4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../apache-maven-3.6.1/repository/org/springframework/boot/spring-boot-starter-aop/2.1.10.BUILD-SNAPSHOT/spring-boot-starter-aop-2.1.10.BUILD-20191014.142051-4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
